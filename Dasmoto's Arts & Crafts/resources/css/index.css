@@ -1,0 +1,10 @@
+h1,
+h2,
+h3,
+p {
+    font-family: helvetica;
+}
+
+h1 {
+    background-image: url('.\resources\images\pattern.jpeg')
+}
